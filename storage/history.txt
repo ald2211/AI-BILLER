@@ -1,0 +1,8 @@
+280 : [{'label': 'Pears soap', 'price': 51, 'quantity': 1, 'amount payable': 51}, {'label': 'Good knight', 'price': 77, 'quantity': 1, 'amount payable': 77}]
+281 : [{'label': 'Pears soap', 'price': 51, 'quantity': 2, 'amount payable': 102}, {'label': 'Good knight', 'price': 77, 'quantity': 1, 'amount payable': 77}, {'label': 'Lemon', 'price': 70, 'quantity': 0.06, 'amount payable': 4.2}]
+282 : [{'label': 'Lemon', 'price': 70, 'quantity': 0.06, 'amount payable': 4.2}]
+283 : [{'label': 'Lemon', 'price': 70, 'quantity': 0.09, 'amount payable': 6.3}]
+284 : [{'label': 'Pears soap', 'price': 51, 'quantity': 1, 'amount payable': 51}]
+285 : [{'label': 'Pears soap', 'price': 51, 'quantity': 1, 'amount payable': 51}]
+286 : [{'label': 'Pears soap', 'price': 51, 'quantity': 1, 'amount payable': 51}]
+287 : [{'label': 'Pears soap', 'price': 51, 'quantity': 1, 'amount payable': 51}, {'label': 'Good knight', 'price': 77, 'quantity': 1, 'amount payable': 77}, {'label': 'Lemon', 'price': 70, 'quantity': 0.08, 'amount payable': 5.6}]
